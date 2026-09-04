@@ -1,7 +1,7 @@
 import { mockIncidents } from '../data/mockIncidents.js'
 import { mockVehicles } from '../data/mockVehicles.js'
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api/v1'
+const API_BASE_URL = 'https://ner-logistics-resilience.onrender.com/api/v1'
 
 async function getJson(url) {
   const response = await fetch(url)

@@ -1,0 +1,186 @@
+[
+  {
+    "road_id": "R101",
+    "accessibilityBefore": 87,
+    "accessibilityAfter": 22,
+    "travelDelayMin": 60,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R102",
+    "accessibilityBefore": 93,
+    "accessibilityAfter": 36,
+    "travelDelayMin": 49,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R103",
+    "accessibilityBefore": 92,
+    "accessibilityAfter": 33,
+    "travelDelayMin": 51,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R104",
+    "accessibilityBefore": 87,
+    "accessibilityAfter": 22,
+    "travelDelayMin": 60,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R105",
+    "accessibilityBefore": 83,
+    "accessibilityAfter": 13,
+    "travelDelayMin": 68,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R106",
+    "accessibilityBefore": 85,
+    "accessibilityAfter": 16,
+    "travelDelayMin": 66,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R107",
+    "accessibilityBefore": 92,
+    "accessibilityAfter": 32,
+    "travelDelayMin": 52,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R108",
+    "accessibilityBefore": 90,
+    "accessibilityAfter": 28,
+    "travelDelayMin": 55,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R109",
+    "accessibilityBefore": 89,
+    "accessibilityAfter": 26,
+    "travelDelayMin": 57,
+    "locationsAffected": 4,
+    "criticalFacilitiesAffected": 1
+  },
+  {
+    "road_id": "R110",
+    "accessibilityBefore": 88,
+    "accessibilityAfter": 24,
+    "travelDelayMin": 59,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R111",
+    "accessibilityBefore": 88,
+    "accessibilityAfter": 23,
+    "travelDelayMin": 60,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R112",
+    "accessibilityBefore": 88,
+    "accessibilityAfter": 23,
+    "travelDelayMin": 59,
+    "locationsAffected": 4,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R113",
+    "accessibilityBefore": 88,
+    "accessibilityAfter": 24,
+    "travelDelayMin": 59,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R114",
+    "accessibilityBefore": 93,
+    "accessibilityAfter": 35,
+    "travelDelayMin": 50,
+    "locationsAffected": 4,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R115",
+    "accessibilityBefore": 92,
+    "accessibilityAfter": 33,
+    "travelDelayMin": 51,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R116",
+    "accessibilityBefore": 84,
+    "accessibilityAfter": 14,
+    "travelDelayMin": 67,
+    "locationsAffected": 3,
+    "criticalFacilitiesAffected": 1
+  },
+  {
+    "road_id": "R117",
+    "accessibilityBefore": 90,
+    "accessibilityAfter": 28,
+    "travelDelayMin": 55,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R118",
+    "accessibilityBefore": 89,
+    "accessibilityAfter": 26,
+    "travelDelayMin": 57,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R119",
+    "accessibilityBefore": 88,
+    "accessibilityAfter": 23,
+    "travelDelayMin": 59,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R120",
+    "accessibilityBefore": 88,
+    "accessibilityAfter": 24,
+    "travelDelayMin": 59,
+    "locationsAffected": 5,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R121",
+    "accessibilityBefore": 91,
+    "accessibilityAfter": 31,
+    "travelDelayMin": 53,
+    "locationsAffected": 6,
+    "criticalFacilitiesAffected": 2
+  },
+  {
+    "road_id": "R122",
+    "accessibilityBefore": 89,
+    "accessibilityAfter": 26,
+    "travelDelayMin": 56,
+    "locationsAffected": 4,
+    "criticalFacilitiesAffected": 1
+  },
+  {
+    "road_id": "R123",
+    "accessibilityBefore": 89,
+    "accessibilityAfter": 26,
+    "travelDelayMin": 56,
+    "locationsAffected": 4,
+    "criticalFacilitiesAffected": 2
+  }
+]

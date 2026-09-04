@@ -1,0 +1,117 @@
+[
+  {
+    "road_id": "R101",
+    "riskLevel": "MEDIUM",
+    "riskScore": 51
+  },
+  {
+    "road_id": "R102",
+    "riskLevel": "LOW",
+    "riskScore": 12
+  },
+  {
+    "road_id": "R103",
+    "riskLevel": "LOW",
+    "riskScore": 20
+  },
+  {
+    "road_id": "R104",
+    "riskLevel": "MEDIUM",
+    "riskScore": 51
+  },
+  {
+    "road_id": "R105",
+    "riskLevel": "HIGH",
+    "riskScore": 77
+  },
+  {
+    "road_id": "R106",
+    "riskLevel": "HIGH",
+    "riskScore": 69
+  },
+  {
+    "road_id": "R107",
+    "riskLevel": "LOW",
+    "riskScore": 23
+  },
+  {
+    "road_id": "R108",
+    "riskLevel": "LOW",
+    "riskScore": 33
+  },
+  {
+    "road_id": "R109",
+    "riskLevel": "MEDIUM",
+    "riskScore": 41
+  },
+  {
+    "road_id": "R110",
+    "riskLevel": "MEDIUM",
+    "riskScore": 47
+  },
+  {
+    "road_id": "R111",
+    "riskLevel": "MEDIUM",
+    "riskScore": 49
+  },
+  {
+    "road_id": "R112",
+    "riskLevel": "MEDIUM",
+    "riskScore": 48
+  },
+  {
+    "road_id": "R113",
+    "riskLevel": "MEDIUM",
+    "riskScore": 46
+  },
+  {
+    "road_id": "R114",
+    "riskLevel": "LOW",
+    "riskScore": 15
+  },
+  {
+    "road_id": "R115",
+    "riskLevel": "LOW",
+    "riskScore": 21
+  },
+  {
+    "road_id": "R116",
+    "riskLevel": "HIGH",
+    "riskScore": 74
+  },
+  {
+    "road_id": "R117",
+    "riskLevel": "LOW",
+    "riskScore": 34
+  },
+  {
+    "road_id": "R118",
+    "riskLevel": "MEDIUM",
+    "riskScore": 39
+  },
+  {
+    "road_id": "R119",
+    "riskLevel": "MEDIUM",
+    "riskScore": 48
+  },
+  {
+    "road_id": "R120",
+    "riskLevel": "MEDIUM",
+    "riskScore": 46
+  },
+  {
+    "road_id": "R121",
+    "riskLevel": "LOW",
+    "riskScore": 27
+  },
+  {
+    "road_id": "R122",
+    "riskLevel": "MEDIUM",
+    "riskScore": 38
+  },
+  {
+    "road_id": "R123",
+    "riskLevel": "MEDIUM",
+    "riskScore": 38
+  }
+]

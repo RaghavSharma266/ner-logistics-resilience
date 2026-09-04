@@ -12,6 +12,12 @@ Concepts used here:
 - Weighted edge: an edge that has a "cost" attached to it (here,
   distance). Shortest-path algorithms use this weight to decide
   the "best" route.
+- MultiGraph: a graph that allows more than one edge between the
+  same pair of nodes (parallel roads, e.g. two different roads
+  both connecting district A to district B). We use MultiGraph
+  instead of plain Graph because the Team Data Contract allows
+  this. Each parallel road is distinguished by an "edge key",
+  which we set to that road's road_id.
 
 We use the NetworkX library because it already implements graphs
 and shortest-path algorithms correctly, so we don't have to write
@@ -21,7 +27,7 @@ that from scratch.
 import networkx as nx
 
 
-def build_network() -> nx.Graph:
+def build_network() -> nx.MultiGraph:
     """
     Builds the tiny artificial network described in the project doc:
 
@@ -40,16 +46,21 @@ def build_network() -> nx.Graph:
         R4: D - C, distance 8
 
     Returns:
-        networkx.Graph: an undirected graph where each edge has
-        'road_id' and 'distance' attributes.
+        networkx.MultiGraph: an undirected multigraph where each
+        edge has 'road_id' and 'distance' attributes, and is keyed
+        by its road_id (so parallel roads between the same two
+        nodes can coexist and be told apart).
     """
-    graph = nx.Graph()
+    graph = nx.MultiGraph()
 
     # Add locations as nodes. Real coordinates / names come later.
     graph.add_nodes_from(["A", "B", "C", "D"])
 
     # Add roads as weighted edges.
-    # Each road gets a unique road_id so we can select it later.
+    # Each road gets a unique road_id, used as BOTH the edge key
+    # (so MultiGraph can tell parallel roads apart) and as a stored
+    # attribute (so other modules can read road_id off the edge data
+    # the same way they always have).
     roads = [
         ("A", "B", "R1", 10),
         ("B", "C", "R2", 10),
@@ -58,7 +69,7 @@ def build_network() -> nx.Graph:
     ]
 
     for start, end, road_id, distance in roads:
-        graph.add_edge(start, end, road_id=road_id, distance=distance)
+        graph.add_edge(start, end, key=road_id, road_id=road_id, distance=distance)
 
     return graph
 
@@ -68,5 +79,5 @@ if __name__ == "__main__":
     g = build_network()
     print("Nodes:", list(g.nodes))
     print("Edges:")
-    for u, v, data in g.edges(data=True):
-        print(f"  {u} - {v}  road_id={data['road_id']}  distance={data['distance']}")
+    for u, v, key, data in g.edges(keys=True, data=True):
+        print(f"  {u} - {v}  key={key}  road_id={data['road_id']}  distance={data['distance']}")

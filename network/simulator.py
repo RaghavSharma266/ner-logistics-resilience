@@ -8,12 +8,17 @@ Three functions:
 1. find_route(graph, origin, destination)
    -> finds the shortest route between two locations using the
       road distances as weights (Dijkstra's algorithm, via NetworkX).
+      graph is a MultiGraph, so if two parallel roads connect the
+      same two nodes, NetworkX automatically uses whichever one is
+      cheaper -- this is native MultiGraph behaviour, not something
+      we implement ourselves.
 
 2. simulate_road_failure(graph, road_id)
-   -> returns a NEW graph with that road removed. The original
-      graph is never touched, so we can simulate multiple failures
-      independently. This matches Section 10 of the project doc:
-      "Original network stays intact."
+   -> returns a NEW graph with EXACTLY that one road removed. If
+      other parallel roads exist between the same two nodes, they
+      are left untouched. The original graph is never modified, so
+      we can simulate multiple failures independently. This matches
+      Section 10 of the project doc: "Original network stays intact."
 
 3. compare_routes(original, alternative)
    -> compares two route results and reports the cost difference,
@@ -23,9 +28,14 @@ Three functions:
 import networkx as nx
 
 
-def find_route(graph: nx.Graph, origin: str, destination: str) -> dict:
+def find_route(graph: nx.MultiGraph, origin: str, destination: str) -> dict:
     """
     Finds the shortest route between origin and destination.
+
+    Because graph is a MultiGraph, if multiple roads exist between
+    the same two nodes, NetworkX's shortest-path functions already
+    pick the lowest-'distance' one automatically -- no extra logic
+    is needed here for that.
 
     Returns a dict:
         {
@@ -45,19 +55,26 @@ def find_route(graph: nx.Graph, origin: str, destination: str) -> dict:
         raise ValueError(f"Unknown location: {e}")
 
 
-def simulate_road_failure(graph: nx.Graph, road_id: str) -> nx.Graph:
+def simulate_road_failure(graph: nx.MultiGraph, road_id: str) -> nx.MultiGraph:
     """
-    Returns a COPY of the graph with the given road_id removed.
-    The original graph passed in is never modified.
+    Returns a COPY of the graph with EXACTLY the road matching
+    road_id removed. The original graph passed in is never modified.
+
+    Important: this does NOT do graph.remove_edge(u, v), because if
+    parallel roads exist between u and v, that would remove an
+    arbitrary one of them instead of the specific road that failed.
+    Instead we find the exact (u, v, key) triple whose road_id
+    matches, and remove only that edge -- any parallel roads between
+    the same two nodes are left in place.
 
     Raises ValueError if no edge with that road_id exists.
     """
     new_graph = graph.copy()
 
-    edge_to_remove = None
-    for u, v, data in new_graph.edges(data=True):
+    edge_to_remove = None  # will hold (u, v, key)
+    for u, v, key, data in new_graph.edges(keys=True, data=True):
         if data.get("road_id") == road_id:
-            edge_to_remove = (u, v)
+            edge_to_remove = (u, v, key)
             break
 
     if edge_to_remove is None:

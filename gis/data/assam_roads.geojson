@@ -1,0 +1,810 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            92.51050203917251,
+            25.839632653844042
+          ],
+          [
+            93.02,
+            25.48
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "dima-hasao",
+        "destination_node": "dima-hasao",
+        "distance_km": 145.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Guwahati – Shillong Corridor",
+        "official_ref": "NH-200(S)",
+        "origin_district": "kamrup-metropolitan",
+        "risk_level": "HIGH",
+        "risk_score": 82,
+        "road_id": "R101",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "kamrup-metropolitan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            92.27490583799414,
+            26.230375458402932
+          ],
+          [
+            92.68,
+            26.35
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "nagaon",
+        "destination_node": "nagaon",
+        "distance_km": 120.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Guwahati – Nagaon Corridor",
+        "official_ref": "SH-11(S)",
+        "origin_district": "kamrup-metropolitan",
+        "risk_level": "LOW",
+        "risk_score": 12,
+        "road_id": "R102",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "kamrup-metropolitan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.68,
+            26.35
+          ],
+          [
+            92.75444893285398,
+            26.159267051928158
+          ],
+          [
+            92.85,
+            26.0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "hojai",
+        "destination_node": "hojai",
+        "distance_km": 95.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Nagaon – Hojai Corridor",
+        "official_ref": "SH-12(S)",
+        "origin_district": "nagaon",
+        "risk_level": "LOW",
+        "risk_score": 17,
+        "road_id": "R103",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "nagaon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.68,
+            26.35
+          ],
+          [
+            93.11137451596647,
+            26.194065430110573
+          ],
+          [
+            93.45,
+            26.05
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "karbi-anglong",
+        "destination_node": "karbi-anglong",
+        "distance_km": 145.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Nagaon – Diphu Corridor",
+        "official_ref": "NH-203(S)",
+        "origin_district": "nagaon",
+        "risk_level": "MEDIUM",
+        "risk_score": 43,
+        "road_id": "R104",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "nagaon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.8,
+            24.83
+          ],
+          [
+            92.91965637764257,
+            25.19549944021809
+          ],
+          [
+            93.02,
+            25.48
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "dima-hasao",
+        "destination_node": "dima-hasao",
+        "distance_km": 160.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Silchar – Haflong Corridor",
+        "official_ref": "SH-14(S)",
+        "origin_district": "cachar",
+        "risk_level": "MEDIUM",
+        "risk_score": 48,
+        "road_id": "R105",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "cachar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            93.02,
+            25.48
+          ],
+          [
+            92.90956326494275,
+            25.812075146073962
+          ],
+          [
+            92.85,
+            26.0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "hojai",
+        "destination_node": "hojai",
+        "distance_km": 120.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Haflong – Lanka Corridor",
+        "official_ref": "SH-15(S)",
+        "origin_district": "dima-hasao",
+        "risk_level": "MEDIUM",
+        "risk_score": 53,
+        "road_id": "R106",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "dima-hasao"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            91.33969409126354,
+            26.160086664214514
+          ],
+          [
+            90.62,
+            26.17
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "goalpara",
+        "destination_node": "goalpara",
+        "distance_km": 135.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Guwahati – Goalpara Corridor",
+        "official_ref": "NH-206(S)",
+        "origin_district": "kamrup-metropolitan",
+        "risk_level": "LOW",
+        "risk_score": 20,
+        "road_id": "R107",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "kamrup-metropolitan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            90.62,
+            26.17
+          ],
+          [
+            90.58902399724072,
+            26.36333694756959
+          ],
+          [
+            90.56,
+            26.48
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "bongaigaon",
+        "destination_node": "bongaigaon",
+        "distance_km": 110.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Goalpara – Bongaigaon Corridor",
+        "official_ref": "SH-17(S)",
+        "origin_district": "goalpara",
+        "risk_level": "LOW",
+        "risk_score": 25,
+        "road_id": "R108",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "goalpara"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.8,
+            26.65
+          ],
+          [
+            93.02084022657324,
+            26.69760187627645
+          ],
+          [
+            93.15,
+            26.73
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "biswanath",
+        "destination_node": "biswanath",
+        "distance_km": 90.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Tezpur – Biswanath Corridor",
+        "official_ref": "SH-18(S)",
+        "origin_district": "sonitpur",
+        "risk_level": "LOW",
+        "risk_score": 30,
+        "road_id": "R109",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "sonitpur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.8,
+            26.65
+          ],
+          [
+            93.51804457824294,
+            27.000038195674083
+          ],
+          [
+            94.11,
+            27.23
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "lakhimpur",
+        "destination_node": "lakhimpur",
+        "distance_km": 170.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Tezpur – North Lakhimpur Corridor",
+        "official_ref": "NH-209(S)",
+        "origin_district": "sonitpur",
+        "risk_level": "LOW",
+        "risk_score": 21,
+        "road_id": "R110",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "sonitpur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            94.59,
+            27.48
+          ],
+          [
+            94.27805713142082,
+            27.328226448442024
+          ],
+          [
+            94.11,
+            27.23
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "lakhimpur",
+        "destination_node": "lakhimpur",
+        "distance_km": 100.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Dhemaji – North Lakhimpur Corridor",
+        "official_ref": "SH-20(S)",
+        "origin_district": "dhemaji",
+        "risk_level": "LOW",
+        "risk_score": 26,
+        "road_id": "R111",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "dhemaji"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            94.2,
+            26.75
+          ],
+          [
+            94.0878906431561,
+            26.63183639441008
+          ],
+          [
+            93.96,
+            26.51
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "golaghat",
+        "destination_node": "golaghat",
+        "distance_km": 80.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Jorhat – Golaghat Corridor",
+        "official_ref": "SH-21(S)",
+        "origin_district": "jorhat",
+        "risk_level": "LOW",
+        "risk_score": 31,
+        "road_id": "R112",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "jorhat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            93.96,
+            26.51
+          ],
+          [
+            93.76126664313365,
+            26.22041625243412
+          ],
+          [
+            93.45,
+            26.05
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "karbi-anglong",
+        "destination_node": "karbi-anglong",
+        "distance_km": 150.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Golaghat – Dimapur Corridor",
+        "official_ref": "NH-212(S)",
+        "origin_district": "golaghat",
+        "risk_level": "LOW",
+        "risk_score": 35,
+        "road_id": "R113",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "golaghat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            94.64,
+            26.98
+          ],
+          [
+            94.46721274964446,
+            26.891939068924508
+          ],
+          [
+            94.2,
+            26.75
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "jorhat",
+        "destination_node": "jorhat",
+        "distance_km": 85.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Sivasagar – Jorhat Corridor",
+        "official_ref": "SH-23(S)",
+        "origin_district": "sivasagar",
+        "risk_level": "LOW",
+        "risk_score": 19,
+        "road_id": "R114",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "sivasagar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            95.36,
+            27.49
+          ],
+          [
+            95.07674552603642,
+            27.202273926000988
+          ],
+          [
+            94.64,
+            26.98
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "sivasagar",
+        "destination_node": "sivasagar",
+        "distance_km": 125.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Tinsukia – Sivasagar Corridor",
+        "official_ref": "SH-24(S)",
+        "origin_district": "tinsukia",
+        "risk_level": "LOW",
+        "risk_score": 23,
+        "road_id": "R115",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "tinsukia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            93.02,
+            25.48
+          ],
+          [
+            93.02411514529355,
+            25.452629713947566
+          ],
+          [
+            93.02,
+            25.48
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "dima-hasao",
+        "destination_node": "dima-hasao",
+        "distance_km": 75.0,
+        "geometry_quality": "SYNTHETIC_GEOMETRY",
+        "name": "Dima Hasao Hill Corridor",
+        "official_ref": "NH-215(S)",
+        "origin_district": "dima-hasao",
+        "risk_level": "MEDIUM",
+        "risk_score": 49,
+        "road_id": "R116",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "dima-hasao"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            92.47020864326817,
+            25.754035166905485
+          ],
+          [
+            93.02,
+            25.48
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "dima-hasao",
+        "destination_node": "dima-hasao",
+        "distance_km": 171.1,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Guwahati – Shillong Corridor",
+        "official_ref": "NH-216(S)",
+        "origin_district": "kamrup-metropolitan",
+        "risk_level": "MEDIUM",
+        "risk_score": 56,
+        "road_id": "R117",
+        "road_type": "MAJOR_CORRIDOR",
+        "source_node": "kamrup-metropolitan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.68,
+            26.35
+          ],
+          [
+            93.00264828867817,
+            26.17310871693029
+          ],
+          [
+            93.45,
+            26.05
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "karbi-anglong",
+        "destination_node": "karbi-anglong",
+        "distance_km": 171.0,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Nagaon – Diphu Corridor (via Kheroni)",
+        "official_ref": "SH-50(S)",
+        "origin_district": "nagaon",
+        "risk_level": "LOW",
+        "risk_score": 28,
+        "road_id": "R118",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "nagaon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.8,
+            24.83
+          ],
+          [
+            92.88960397434016,
+            25.08549018951319
+          ],
+          [
+            93.02,
+            25.48
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "dima-hasao",
+        "destination_node": "dima-hasao",
+        "distance_km": 184.0,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Silchar – Haflong Corridor (via Lakhipur)",
+        "official_ref": "SH-51(S)",
+        "origin_district": "cachar",
+        "risk_level": "LOW",
+        "risk_score": 30,
+        "road_id": "R119",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "cachar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            93.02,
+            25.48
+          ],
+          [
+            92.91249395258887,
+            25.664362506542908
+          ],
+          [
+            92.85,
+            26.0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "hojai",
+        "destination_node": "hojai",
+        "distance_km": 144.0,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Haflong – Lanka Corridor (via Maibang)",
+        "official_ref": "SH-52(S)",
+        "origin_district": "dima-hasao",
+        "risk_level": "LOW",
+        "risk_score": 32,
+        "road_id": "R120",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "dima-hasao"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            91.1388344669916,
+            26.15559348966417
+          ],
+          [
+            90.62,
+            26.17
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "goalpara",
+        "destination_node": "goalpara",
+        "distance_km": 158.0,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Guwahati – Goalpara Corridor (via Rangiya)",
+        "official_ref": "SH-53(S)",
+        "origin_district": "kamrup-metropolitan",
+        "risk_level": "LOW",
+        "risk_score": 15,
+        "road_id": "R121",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "kamrup-metropolitan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            92.8,
+            26.65
+          ],
+          [
+            92.9909693467497,
+            26.696447051453042
+          ],
+          [
+            93.15,
+            26.73
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "biswanath",
+        "destination_node": "biswanath",
+        "distance_km": 104.0,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Tezpur – Biswanath Corridor (via Gohpur)",
+        "official_ref": "SH-54(S)",
+        "origin_district": "sonitpur",
+        "risk_level": "LOW",
+        "risk_score": 20,
+        "road_id": "R122",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "sonitpur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            94.2,
+            26.75
+          ],
+          [
+            94.09390372782245,
+            26.6556005972581
+          ],
+          [
+            93.96,
+            26.51
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "data_status": "SYNTHETIC_DEMO",
+        "destination_district": "golaghat",
+        "destination_node": "golaghat",
+        "distance_km": 92.0,
+        "geometry_quality": "SYNTHETIC_ALTERNATE",
+        "name": "Alternate Jorhat – Golaghat Corridor (via Titabor)",
+        "official_ref": "SH-55(S)",
+        "origin_district": "jorhat",
+        "risk_level": "LOW",
+        "risk_score": 20,
+        "road_id": "R123",
+        "road_type": "STATE_HIGHWAY",
+        "source_node": "jorhat"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

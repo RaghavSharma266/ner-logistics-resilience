@@ -1,0 +1,905 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.7319,
+          26.13533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "kamrup-metropolitan",
+        "facility_id": "FAC-01",
+        "name": "District Hospital Kamrup Metropolitan (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.68036,
+          26.34223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "nagaon",
+        "facility_id": "FAC-02",
+        "name": "District Hospital Nagaon (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.04097,
+          25.47047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "dima-hasao",
+        "facility_id": "FAC-03",
+        "name": "District Hospital Dima Hasao (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.77633,
+          24.84934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "cachar",
+        "facility_id": "FAC-04",
+        "name": "District Hospital Cachar (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.80814,
+          26.67765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "sonitpur",
+        "facility_id": "FAC-05",
+        "name": "District Hospital Sonitpur (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.63244,
+          26.18972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "goalpara",
+        "facility_id": "FAC-06",
+        "name": "District Hospital Goalpara (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.57403,
+          26.47613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "bongaigaon",
+        "facility_id": "FAC-07",
+        "name": "District Hospital Bongaigaon (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.5762,
+          27.50793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "dhemaji",
+        "facility_id": "FAC-08",
+        "name": "District Hospital Dhemaji (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.64229,
+          26.99849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "sivasagar",
+        "facility_id": "FAC-09",
+        "name": "District Hospital Sivasagar (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.95613,
+          26.50901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "golaghat",
+        "facility_id": "FAC-10",
+        "name": "District Hospital Golaghat (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.1861,
+          26.76386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "jorhat",
+        "facility_id": "FAC-11",
+        "name": "District Hospital Jorhat (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.37984,
+          27.5111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "tinsukia",
+        "facility_id": "FAC-12",
+        "name": "District Hospital Tinsukia (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.1329,
+          27.2052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "lakhimpur",
+        "facility_id": "FAC-13",
+        "name": "District Hospital Lakhimpur (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.84788,
+          25.98463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "hojai",
+        "facility_id": "FAC-14",
+        "name": "District Hospital Hojai (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.44274,
+          26.05662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": true,
+        "data_quality_note": "Synthetic location. Critical=True is a project assumption, not an official classification.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "karbi-anglong",
+        "facility_id": "FAC-15",
+        "name": "District Hospital Karbi Anglong (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "HOSPITAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.7062,
+          26.1845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "kamrup-metropolitan",
+        "facility_id": "FAC-16",
+        "name": "Emergency Supply Centre 1 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.65,
+          26.39
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "nagaon",
+        "facility_id": "FAC-17",
+        "name": "Emergency Supply Centre 2 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.99,
+          25.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "dima-hasao",
+        "facility_id": "FAC-18",
+        "name": "Emergency Supply Centre 3 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.77,
+          24.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "cachar",
+        "facility_id": "FAC-19",
+        "name": "Emergency Supply Centre 4 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.59,
+          26.21
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "goalpara",
+        "facility_id": "FAC-20",
+        "name": "Emergency Supply Centre 5 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.53,
+          26.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "bongaigaon",
+        "facility_id": "FAC-21",
+        "name": "Emergency Supply Centre 6 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.77,
+          26.69
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "sonitpur",
+        "facility_id": "FAC-22",
+        "name": "Emergency Supply Centre 7 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.56,
+          27.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "dhemaji",
+        "facility_id": "FAC-23",
+        "name": "Emergency Supply Centre 8 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.33,
+          27.53
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "tinsukia",
+        "facility_id": "FAC-24",
+        "name": "Emergency Supply Centre 9 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.42,
+          26.09
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic logistics location; not an actual government warehouse.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "karbi-anglong",
+        "facility_id": "FAC-25",
+        "name": "Emergency Supply Centre 10 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "SUPPLY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.07615,
+          25.40459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "dima-hasao",
+        "facility_id": "FAC-26",
+        "name": "Representative Village 1 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.40394,
+          25.99909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "karbi-anglong",
+        "facility_id": "FAC-27",
+        "name": "Representative Village 2 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.77445,
+          24.87765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "cachar",
+        "facility_id": "FAC-28",
+        "name": "Representative Village 3 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.83219,
+          26.71085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "sonitpur",
+        "facility_id": "FAC-29",
+        "name": "Representative Village 4 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.60162,
+          26.3142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "nagaon",
+        "facility_id": "FAC-30",
+        "name": "Representative Village 5 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.5237,
+          27.55169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "dhemaji",
+        "facility_id": "FAC-31",
+        "name": "Representative Village 6 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.10817,
+          27.26521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "lakhimpur",
+        "facility_id": "FAC-32",
+        "name": "Representative Village 7 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.6505,
+          26.21131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "goalpara",
+        "facility_id": "FAC-33",
+        "name": "Representative Village 8 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.35853,
+          27.51334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "tinsukia",
+        "facility_id": "FAC-34",
+        "name": "Representative Village 9 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.13489,
+          26.79687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "jorhat",
+        "facility_id": "FAC-35",
+        "name": "Representative Village 10 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.99069,
+          26.46546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "golaghat",
+        "facility_id": "FAC-36",
+        "name": "Representative Village 11 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.86305,
+          25.96899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "hojai",
+        "facility_id": "FAC-37",
+        "name": "Representative Village 12 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.56495,
+          26.47572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "bongaigaon",
+        "facility_id": "FAC-38",
+        "name": "Representative Village 13 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.58935,
+          26.68808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "baksa",
+        "facility_id": "FAC-39",
+        "name": "Representative Village 14 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.13246,
+          26.72293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "udalguri",
+        "facility_id": "FAC-40",
+        "name": "Representative Village 15 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.60022,
+          26.94335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "sivasagar",
+        "facility_id": "FAC-41",
+        "name": "Representative Village 16 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.30081,
+          26.1893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "morigaon",
+        "facility_id": "FAC-42",
+        "name": "Representative Village 17 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.60574,
+          26.03913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "kamrup",
+        "facility_id": "FAC-43",
+        "name": "Representative Village 18 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.09962,
+          26.77195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "biswanath",
+        "facility_id": "FAC-44",
+        "name": "Representative Village 19 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.73367,
+          26.09912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "critical": false,
+        "data_quality_note": "Synthetic settlement location for prototype impact testing.",
+        "data_status": "SYNTHETIC_DEMO",
+        "district": "kamrup-metropolitan",
+        "facility_id": "FAC-45",
+        "name": "Representative Village 20 (SYNTHETIC)",
+        "source": "SYNTHETIC_DEMO",
+        "type": "VILLAGE"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

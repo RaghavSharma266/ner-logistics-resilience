@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.7362,
+          26.1445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "kamrup-metropolitan",
+        "name": "Kamrup Metropolitan",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.6,
+          26.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "kamrup",
+        "name": "Kamrup",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.02,
+          25.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "dima-hasao",
+        "name": "Dima Hasao",
+        "state": "Assam",
+        "terrain_class": "HILLS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.8,
+          24.83
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "cachar",
+        "name": "Cachar",
+        "state": "Assam",
+        "terrain_class": "FOOTHILLS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.8,
+          26.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "sonitpur",
+        "name": "Sonitpur",
+        "state": "Assam",
+        "terrain_class": "FOOTHILLS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.68,
+          26.35
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "nagaon",
+        "name": "Nagaon",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.35,
+          26.25
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "morigaon",
+        "name": "Morigaon",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.62,
+          26.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "goalpara",
+        "name": "Goalpara",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.56,
+          26.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "bongaigaon",
+        "name": "Bongaigaon",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.59,
+          27.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "dhemaji",
+        "name": "Dhemaji",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.64,
+          26.98
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "sivasagar",
+        "name": "Sivasagar",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.96,
+          26.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "golaghat",
+        "name": "Golaghat",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.2,
+          26.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "jorhat",
+        "name": "Jorhat",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.36,
+          27.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "tinsukia",
+        "name": "Tinsukia",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.11,
+          27.23
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "lakhimpur",
+        "name": "Lakhimpur",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.85,
+          26.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "hojai",
+        "name": "Hojai",
+        "state": "Assam",
+        "terrain_class": "PLAINS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.45,
+          26.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "karbi-anglong",
+        "name": "Karbi Anglong",
+        "state": "Assam",
+        "terrain_class": "HILLS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.15,
+          26.73
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "biswanath",
+        "name": "Biswanath",
+        "state": "Assam",
+        "terrain_class": "FOOTHILLS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.55,
+          26.7
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "baksa",
+        "name": "Baksa",
+        "state": "Assam",
+        "terrain_class": "FOOTHILLS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.1,
+          26.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "coordinate_note": "SYNTHETIC_APPROXIMATE_CENTROID",
+        "data_status": "SYNTHETIC_DEMO",
+        "district_id": "udalguri",
+        "name": "Udalguri",
+        "state": "Assam",
+        "terrain_class": "FOOTHILLS"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

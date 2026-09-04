@@ -1,0 +1,1265 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          93.15544,
+          25.39994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-09-04",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-001",
+        "road_related": "UNKNOWN",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.60008,
+          26.15753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-06-14",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-002",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.65876,
+          24.79833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-05-13",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-003",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.77536,
+          26.6356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-09-22",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-004",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.16999,
+          25.41495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-09-02",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-005",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.45091,
+          26.07694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-06-02",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-006",
+        "road_related": "YES",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.83041,
+          24.72946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-06-13",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-007",
+        "road_related": "UNKNOWN",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.83025,
+          26.56879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-05-14",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-008",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.94345,
+          25.42124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-07-08",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-009",
+        "road_related": "YES",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.43631,
+          26.09656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-05-15",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-010",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.81204,
+          24.70199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-07-05",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-011",
+        "road_related": "UNKNOWN",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.75825,
+          26.77137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-08-27",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-012",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.11827,
+          25.63483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-05-22",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-013",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.59046,
+          26.10228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-07-04",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-014",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.73016,
+          24.71974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-07-07",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-015",
+        "road_related": "UNKNOWN",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.72036,
+          26.65173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-05-21",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-016",
+        "road_related": "YES",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.10676,
+          25.32113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-07-06",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-017",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.29309,
+          26.02686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-06-18",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-018",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.77753,
+          24.84681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-07-12",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-019",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.92766,
+          26.76542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-06-22",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-020",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.99004,
+          25.60292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-06-08",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-021",
+        "road_related": "UNKNOWN",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.57205,
+          26.14945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-06-24",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-022",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.85437,
+          24.80175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-06-09",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-023",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.65239,
+          26.61241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-06-07",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-024",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.11451,
+          25.41766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-06-01",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-025",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.31221,
+          25.97915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-07-21",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-026",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.74597,
+          24.93997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-05-09",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-027",
+        "road_related": "UNKNOWN",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.67469,
+          26.57495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-07-24",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-028",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.89701,
+          25.63496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-06-09",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-029",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.54808,
+          26.05637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-06-12",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-030",
+        "road_related": "UNKNOWN",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.83941,
+          24.96465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-05-24",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-031",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.74438,
+          26.70341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-07-18",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-032",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.07674,
+          25.62092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-09-19",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-033",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.38181,
+          25.89013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-09-20",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-034",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.70838,
+          24.81149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-06-22",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-035",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.74726,
+          26.69254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-07-08",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-036",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.17486,
+          25.33479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-05-15",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-037",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.51283,
+          25.95222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-08-08",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-038",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.91534,
+          24.95565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2019-08-08",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-039",
+        "road_related": "UNKNOWN",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.65607,
+          26.65575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-05-15",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-040",
+        "road_related": "NO",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.03886,
+          25.48996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-08-20",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-041",
+        "road_related": "UNKNOWN",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.58019,
+          26.02656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-06-24",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-042",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.90876,
+          24.91057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-09-16",
+        "district": "cachar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-043",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.73143,
+          26.51479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-07-11",
+        "district": "sonitpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-044",
+        "road_related": "YES",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.98257,
+          25.36827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-06-03",
+        "district": "dima-hasao",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-045",
+        "road_related": "YES",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.53993,
+          26.3391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-08-25",
+        "district": "nagaon",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-046",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.43499,
+          26.36415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-08-01",
+        "district": "morigaon",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-047",
+        "road_related": "YES",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.74533,
+          26.1348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-09-24",
+        "district": "goalpara",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-048",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.55623,
+          26.6073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-07-16",
+        "district": "bongaigaon",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-049",
+        "road_related": "YES",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.55938,
+          27.53733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-08-05",
+        "district": "dhemaji",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-050",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.66941,
+          27.11022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-01-03",
+        "district": "sivasagar",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-051",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.81609,
+          26.49774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-06-07",
+        "district": "golaghat",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-052",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.12904,
+          26.87148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2022-05-27",
+        "district": "jorhat",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-053",
+        "road_related": "YES",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.51997,
+          27.50261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-04-21",
+        "district": "tinsukia",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-054",
+        "road_related": "UNKNOWN",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.95993,
+          27.08288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2020-04-27",
+        "district": "lakhimpur",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-055",
+        "road_related": "YES",
+        "severity": "LOW",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.90423,
+          25.88039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-04-15",
+        "district": "hojai",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-056",
+        "road_related": "NO",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.48432,
+          25.94369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2024-12-04",
+        "district": "karbi-anglong",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-057",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.17518,
+          26.66953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2021-10-22",
+        "district": "biswanath",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-058",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.45347,
+          26.84127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-12-27",
+        "district": "baksa",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-059",
+        "road_related": "YES",
+        "severity": "MEDIUM",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          92.21209,
+          26.83719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "data_quality_note": "Synthetic event-like record for prototype testing; not a real reported event.",
+        "data_status": "SYNTHETIC_DEMO",
+        "date": "2023-02-26",
+        "district": "udalguri",
+        "hazard_type": "LANDSLIDE",
+        "landslide_id": "LS-060",
+        "road_related": "NO",
+        "severity": "HIGH",
+        "source": "SYNTHETIC_DEMO"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

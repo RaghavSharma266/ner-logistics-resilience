@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+networkx
+pandas
+openpyxl
+pytest
+httpx
